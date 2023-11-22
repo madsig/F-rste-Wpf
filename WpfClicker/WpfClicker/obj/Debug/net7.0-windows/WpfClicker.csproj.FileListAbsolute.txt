@@ -1,0 +1,14 @@
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\bin\Debug\net7.0-windows\WpfClicker.exe
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\bin\Debug\net7.0-windows\WpfClicker.deps.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\bin\Debug\net7.0-windows\WpfClicker.runtimeconfig.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\bin\Debug\net7.0-windows\WpfClicker.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\bin\Debug\net7.0-windows\WpfClicker.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\obj\Debug\net7.0-windows\WpfClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\obj\Debug\net7.0-windows\WpfClicker.AssemblyInfoInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\obj\Debug\net7.0-windows\WpfClicker.AssemblyInfo.cs
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\obj\Debug\net7.0-windows\WpfClicker.csproj.CoreCompileInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\obj\Debug\net7.0-windows\WpfClicker.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\obj\Debug\net7.0-windows\refint\WpfClicker.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\obj\Debug\net7.0-windows\WpfClicker.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\obj\Debug\net7.0-windows\WpfClicker.genruntimeconfig.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.22 - Første Wpf\WpfClicker\WpfClicker\obj\Debug\net7.0-windows\ref\WpfClicker.dll
